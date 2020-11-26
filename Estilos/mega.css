@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.menu-area{
+    position: static;
+}
+.mega-area{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    right: 0;
+    padding: 15px;
+}
+
+.navbar-nav .nav-item .nav-link:hover{
+    background-color: #4B515D;
+}
+.seleccionar:hover{
+    background-color: rgba(62, 69, 81, 0.1);
+   
+}
+
